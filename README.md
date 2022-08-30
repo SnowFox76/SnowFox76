@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnowFox76
+- 👋 Hi, I am Jean-Pierre
 - 👀 I’m interested in data science, machine learning, app development, and much more. 
 - 🌱 I’m currently learning Python and running a data science bootcamp with Udemy. 
 - 💞️ I’m looking to collaborate on any projects where I can learn somehting new and get to know other people in my field. I am open to any and all employment opportunities. 
